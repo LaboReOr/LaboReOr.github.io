@@ -9,7 +9,7 @@
     --transparentBlack: rgb(0, 0, 0, 0.1);
     --transparentBlacker: rgb(0, 0, 0, 0.5);
     --transparentWhite: rgb(255, 255, 255, 0.2 );
-    --ImagenFondo: url(/img/monumental.png);
+    --ImagenFondo: url(../img/monumental.png);
 }
 
 body{
